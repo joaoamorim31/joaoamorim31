@@ -1,5 +1,6 @@
 # 💫 About Me:
-Cursando faculdade Ciência da computação<br>A procura de estagio
+Cursando faculdade Ciência da computação<br>
+
 
 
 ## 🌐 Socials:
